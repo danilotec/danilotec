@@ -1,4 +1,4 @@
-# 💡 Olá, sou [Seu Nome] 👋
+# 💡 Olá, sou Danilo Souza 👋
 
 🚀 Desenvolvedor IoT | 🔧 Engenheiro de Firmware | 🌍 Tecnico em Automação  
 
@@ -24,8 +24,7 @@ Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, Lo
 ---
 
 ## 📫 Onde me encontrar?  
-📎 [LinkedIn](https://linkedin.com/in/seuperfil)  
-📜 [Blog/Site](https://seusite.com)  
+📎 [LinkedIn](https://linkedin.com/in/seuperfil)   
 ✉️ Contato: danilocrautommaca@gmail.com  
 
 ---

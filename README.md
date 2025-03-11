@@ -26,7 +26,7 @@ Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, Lo
 
 ## 📌 Projetos em Destaque  
 🖥️ **[Monitoramento MQTT](https://github.com/danilotec/sistema_mqtt)** - Sistema que monitora mensagens em um broker mqtt, armazena em um banco de dados e os deixa disponiveis via API.  
-🌱 **[Gerador de Oxigênio](https://github.com/danilotec/air-generator)** - Automação com ESP32 e MQTT. Prototipo inicial de controle e monitoramento de uma Usina de oxigenio para hospitais, o projeto principal esta privado e o sistema se encontra em funcionamento em alguns hospitais do nordeste. 
+🌱 **[Gerador de Oxigênio](https://github.com/danilotec/air-generator)** - Automação com ESP32 e MQTT. Prototipo inicial de controle e monitoramento de uma Usina de oxigenio para hospitais, o projeto principal esta privado e o sistema se encontra em funcionamento em alguns hospitais do nordeste.                                                                                        
 🔗 **[Comunicação p2p](https://github.com/danilotec/p2p-communication)** - Comunicação p2p entre esp8266 e API.
 
 🎯 Veja todos os meus projetos [aqui](https://github.com/danilotec?tab=repositories&q)!  

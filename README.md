@@ -24,7 +24,7 @@ Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, Lo
 ---
 
 ## 📫 Onde me encontrar?  
-📎 [LinkedIn](https://linkedin.com/in/seuperfil)   
+📎 [LinkedIn]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/danilo-souza-516995240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))   
 ✉️ Contato: danilocrautomaca@gmail.com  
 
 ---

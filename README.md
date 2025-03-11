@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor IoT | 📥 Desenvolvedor Backend | 🌍 Tecnico em Automação  
 
-Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, LoRaWAN, BLE, API Rest e SOAP e muito mais**! 💻📡  
+Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, LoRaWAN, BLE, API Rest e SocketAPI e muito mais**! 💻📡  
 
 ---
 

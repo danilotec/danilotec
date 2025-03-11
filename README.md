@@ -1,6 +1,6 @@
 # 💡 Olá, sou Danilo Souza 👋
 
-🚀 Desenvolvedor IoT | 🔧 Engenheiro de Firmware | 🌍 Tecnico em Automação  
+🚀 Desenvolvedor IoT | 🔧Desenvolvedor Backend | 🌍 Tecnico em Automação  
 
 Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, LoRaWAN, BLE, API Rest e SOAP e muito mais**! 💻📡  
 

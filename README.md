@@ -2,7 +2,7 @@
 
 🚀 Desenvolvedor IoT | 🔧 Engenheiro de Firmware | 🌍 Tecnico em Automação  
 
-Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, LoRaWAN, API Rest e SOAP e muito mais**! 💻📡  
+Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, LoRaWAN, BLE, API Rest e SOAP e muito mais**! 💻📡  
 
 ---
 
@@ -19,13 +19,13 @@ Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, Lo
 🌱 **Monitoramento MQTT([https://github.com/seuperfil/projeto1](https://github.com/danilotec/sistema_mqtt))** - Sistema que monitora mensagens em um broker mqtt, armazena em um banco de dados e os deixa disponiveis via API.  
 🔋 **Gerador de Oxigênio([https://github.com/seuperfil/projeto2](https://github.com/danilotec/air-generator))** - Automação com ESP32 e MQTT. Prototipo inicial de controle e monitoramento de uma Usina de oxigenio para hospitais, o projeto principal esta privado e o sistema se encontra em funcinamento em alguns hospitais do nordeste.  
 
-🎯 Veja todos os meus projetos [aqui](https://github.com/seuperfil?tab=repositories)!  
+🎯 Veja todos os meus projetos [aqui](https://github.com/danilotec?tab=repositories&q)!  
 
 ---
 
 ## 📫 Onde me encontrar?  
 📎 [LinkedIn](https://linkedin.com/in/seuperfil)   
-✉️ Contato: danilocrautommaca@gmail.com  
+✉️ Contato: danilocrautomaca@gmail.com  
 
 ---
 

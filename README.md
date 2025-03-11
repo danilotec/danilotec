@@ -1,6 +1,6 @@
 # 💡 Olá, sou [Seu Nome] 👋
 
-🚀 Desenvolvedor IoT | 🔧 Engenheiro de Firmware | 🌍 Entusiasta de Automação  
+🚀 Desenvolvedor IoT | 🔧 Engenheiro de Firmware | 🌍 Tecnico em Automação  
 
 Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, LoRaWAN, API Rest e SOAP e muito mais**! 💻📡  
 

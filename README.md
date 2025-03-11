@@ -16,7 +16,7 @@ Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, Lo
 ---
 
 ## 📌 Projetos em Destaque  
-🌱 **[Nome do Projeto 1](https://github.com/seuperfil/projeto1)** - Breve descrição do projeto.  
+🌱 **Monitoramento MQTT([https://github.com/seuperfil/projeto1](https://github.com/danilotec/sistema_mqtt))** - Sistema que monitora mensagens em um broker mqtt, armazena em um banco de dados e os deixa disponiveis via API.  
 🔋 **[Nome do Projeto 2](https://github.com/seuperfil/projeto2)** - Automação com ESP32 e MQTT.  
 
 🎯 Veja todos os meus projetos [aqui](https://github.com/seuperfil?tab=repositories)!  

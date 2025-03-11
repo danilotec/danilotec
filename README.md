@@ -12,6 +12,9 @@ Sou gosto de conectar o mundo físico ao digital. Trabalho com **ESP32, MQTT, Lo
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
 
 ---
 
